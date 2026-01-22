@@ -24,7 +24,7 @@ The project demonstrates an **end-to-end analytics workflow** using **SQL for da
 ---
 
 ## 📊 Power BI Dashboard Preview
-![RFM Customer Segmentation Dashboard](<img width="1753" height="986" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/7a0b828c-973d-4881-887d-c6ca16557505" />)
+![Screenshot_22-1-2026_224810_app powerbi com](https://github.com/user-attachments/assets/c31523e6-5f04-4438-a260-4e3eafbb9ef0)
 
 ---
 
@@ -44,5 +44,9 @@ The project demonstrates an **end-to-end analytics workflow** using **SQL for da
 
 ---
 
+## 📬 Contact  
+💼 **LinkedIn:** www.linkedin.com/in/ishikaa1604
+  
+📧 **Email:** chauhanishika45@gmail.com  
 
 
