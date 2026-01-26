@@ -1,5 +1,5 @@
 # 📊 Customer Segmentation Analysis using RFM  
-**End-to-End Data Analytics Project | MySQL | Python | Power BI**
+**End-to-End Data Analytics Project | Python | MySQL | Power BI**
 
 ## 🔍 Project Overview
 This project implements **RFM (Recency, Frequency, Monetary) analysis** to segment customers based on purchasing behavior. The goal is to identify **high-value, loyal, at-risk, and new customers** to support data-driven marketing, sales, and retention strategies.
@@ -24,7 +24,8 @@ The project demonstrates an **end-to-end analytics workflow** using **SQL for da
 ---
 
 ## 📊 Power BI Dashboard Preview
-![Screenshot_22-1-2026_224810_app powerbi com](https://github.com/user-attachments/assets/c31523e6-5f04-4438-a260-4e3eafbb9ef0)
+![Customer Segmentation Analysis using RFM  dashboard](https://github.com/user-attachments/assets/8dbb8069-d925-4f6c-8e18-06d3224d35ae)
+
 
 ---
 
